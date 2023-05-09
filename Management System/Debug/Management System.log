@@ -1,0 +1,7 @@
+﻿  list.cpp
+  main.cpp
+  textFile.cpp
+  textFile.h
+  Generating Code...
+Debug\textFile.obj : warning LNK4042: object specified more than once; extras ignored
+  Management System.vcxproj -> C:\Users\moham\Desktop\Projects\Management System\Debug\Management System.exe
